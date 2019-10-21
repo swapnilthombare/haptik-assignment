@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/haptik-assignment/static/css/main.a8868dda.chunk.css",
-    "main.js": "/haptik-assignment/static/js/main.b7d06065.chunk.js",
-    "main.js.map": "/haptik-assignment/static/js/main.b7d06065.chunk.js.map",
+    "main.js": "/haptik-assignment/static/js/main.4ccc878b.chunk.js",
+    "main.js.map": "/haptik-assignment/static/js/main.4ccc878b.chunk.js.map",
     "runtime-main.js": "/haptik-assignment/static/js/runtime-main.3ad37275.js",
     "runtime-main.js.map": "/haptik-assignment/static/js/runtime-main.3ad37275.js.map",
     "static/js/2.4eef5018.chunk.js": "/haptik-assignment/static/js/2.4eef5018.chunk.js",
     "static/js/2.4eef5018.chunk.js.map": "/haptik-assignment/static/js/2.4eef5018.chunk.js.map",
     "index.html": "/haptik-assignment/index.html",
-    "precache-manifest.7c02099c8bbb110167c97782e8b8c53f.js": "/haptik-assignment/precache-manifest.7c02099c8bbb110167c97782e8b8c53f.js",
+    "precache-manifest.46ee0fc5a6531f14d4475cc890cde3ce.js": "/haptik-assignment/precache-manifest.46ee0fc5a6531f14d4475cc890cde3ce.js",
     "service-worker.js": "/haptik-assignment/service-worker.js",
     "static/css/main.a8868dda.chunk.css.map": "/haptik-assignment/static/css/main.a8868dda.chunk.css.map",
     "static/media/logo.svg": "/haptik-assignment/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3ad37275.js",
     "static/js/2.4eef5018.chunk.js",
     "static/css/main.a8868dda.chunk.css",
-    "static/js/main.b7d06065.chunk.js"
+    "static/js/main.4ccc878b.chunk.js"
   ]
 }
