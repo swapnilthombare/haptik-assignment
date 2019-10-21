@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/haptik-assignment/precache-manifest.a56603f2a73f7549397dd4ddd11131be.js"
+  "/haptik-assignment/precache-manifest.a64861d750f7c29da24634123dc07982.js"
 );
 
 self.addEventListener('message', (event) => {
