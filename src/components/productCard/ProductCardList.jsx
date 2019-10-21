@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import ProductCard from "./ProductCard";
 import Grid from "@material-ui/core/Grid";
 import cardListDummy from "../../data/static-data";
@@ -28,7 +28,6 @@ const ProductCardList = () => {
                 imgSrc={card.imgSrc}
                 description={card.description}
                 heading={card.heading}
-                day={card.day}
               ></ProductCard>
             </Grid>
           );
