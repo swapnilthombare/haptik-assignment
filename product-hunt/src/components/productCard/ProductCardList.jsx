@@ -28,6 +28,7 @@ const ProductCardList = () => {
                 imgSrc={card.imgSrc}
                 description={card.description}
                 heading={card.heading}
+                day={card.day}
               ></ProductCard>
             </Grid>
           );

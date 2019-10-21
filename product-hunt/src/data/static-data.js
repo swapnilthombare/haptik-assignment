@@ -6,6 +6,7 @@ const imgIDArray = () => {
 const cardListDummy = [
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
@@ -13,6 +14,7 @@ const cardListDummy = [
   },
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
@@ -20,6 +22,7 @@ const cardListDummy = [
   },
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
@@ -27,6 +30,7 @@ const cardListDummy = [
   },
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
@@ -34,6 +38,7 @@ const cardListDummy = [
   },
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
@@ -41,6 +46,7 @@ const cardListDummy = [
   },
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
@@ -48,6 +54,7 @@ const cardListDummy = [
   },
   {
     imgSrc: imgIDArray(),
+    day: "2017-09-14",
     heading: "Heading",
     description:
       "To keep moving forward againt the friction, we overcome the ______ friction.",
