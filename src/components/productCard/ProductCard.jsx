@@ -34,6 +34,9 @@ const useStyles = makeStyles({
   },
   cardActions: {
     position: "relative"
+  },
+  description: {
+    height: "120px"
   }
 });
 
@@ -55,17 +58,14 @@ export default function ImgMediaCard(props) {
           <Typography gutterBottom variant="h5" component="h2">
             {heading}
           </Typography>
-          <Typography variant="body2" color="textSecondary" component="p">
-            {description}
-          </Typography>
-          {/* <Typography
-            variant="subtitle2"
+          <Typography
+            variant="body2"
             color="textSecondary"
             component="p"
-            className={classes.day}
+            className={classes.description}
           >
-            Posted on | {day}
-          </Typography> */}
+            {description}
+          </Typography>
         </CardContent>
       </CardActionArea>
       <CardActions className={classes.cardActions}>

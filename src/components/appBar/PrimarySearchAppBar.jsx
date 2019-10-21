@@ -23,8 +23,8 @@ const useStyles = makeStyles(theme => ({
     marginRight: theme.spacing(2)
   },
   title: {
-    display: "none",
-    [theme.breakpoints.up("sm")]: {
+    // display: "none",
+    [theme.breakpoints.up("xs")]: {
       display: "block"
     }
   },
@@ -111,15 +111,7 @@ const PrimarySearchAppBar = () => {
             <FavoriteIcon />
           </Badge>
         </IconButton>
-        <p>Messages</p>
-      </MenuItem>
-      <MenuItem>
-        <IconButton aria-label="show 11 new notifications" color="inherit">
-          <Badge badgeContent={11} color="secondary">
-            <NotificationsIcon />
-          </Badge>
-        </IconButton>
-        <p>Notifications</p>
+        <p>Liked Products</p>
       </MenuItem>
       <MenuItem onClick={handleProfileMenuOpen}>
         <IconButton

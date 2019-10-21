@@ -7,7 +7,7 @@ import { makeStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles({
   gridContainer: {
     display: "flex",
-    justifyContent: "center"
+    justifyContent: "center",
   },
   gridItem: {
     flexBasis: "unset",
@@ -25,9 +25,10 @@ const ProductCardList = () => {
             <Grid item xs={12} className={classes.gridItem}>
               <ProductCard
                 id={card.id}
-                imgSrc={card.imgSrc}
+                imgSrc={card.thumbnail.url}
                 description={card.description}
-                heading={card.heading}
+                heading={card.name}
+                day={card.createdAt}
               ></ProductCard>
             </Grid>
           );

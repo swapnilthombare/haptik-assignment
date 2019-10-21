@@ -2,6 +2,7 @@
   "name": "product-hunt",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://swapnilthombare.github.io/haptik-assignment/",
   "dependencies": {
     "@bearer/react": "^1.13.10",
     "@date-io/core": "^1.3.11",
