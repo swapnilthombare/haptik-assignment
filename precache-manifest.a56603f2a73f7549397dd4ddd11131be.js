@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ea79e164d9f5188db9ad6f967d1e9ce",
+    "revision": "64e9eeddc408cd7940bb46b46632276e",
     "url": "/haptik-assignment/index.html"
   },
   {
-    "revision": "65b046700880a8c025c3",
+    "revision": "047189c92f6d953cde29",
     "url": "/haptik-assignment/static/css/main.a8868dda.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haptik-assignment/static/js/2.4eef5018.chunk.js"
   },
   {
-    "revision": "65b046700880a8c025c3",
-    "url": "/haptik-assignment/static/js/main.4ccc878b.chunk.js"
+    "revision": "047189c92f6d953cde29",
+    "url": "/haptik-assignment/static/js/main.8b39db2d.chunk.js"
   },
   {
     "revision": "fb065523dcb5fd235f50",
